@@ -22,5 +22,7 @@ public class Answer {
     @Override
     public int hashCode() {
         // TODO: Implement the logic to generate a hash code based on relevant fields
+        
+
     }
 }

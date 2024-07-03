@@ -13,7 +13,7 @@ public class Tester {
 
         // **Challenge:** Once you have implemented hashCode(), uncomment these lines to
         // test:
-        // System.out.println("Book 1 hash code: " + book1.hashCode());
+        System.out.println("Book 1 hash code: " + book1.hashCode());
         // System.out.println("Book 2 hash code: " + book2.hashCode());
         // System.out.println("Book 3 hash code: " + book3.hashCode());
 
